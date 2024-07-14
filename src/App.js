@@ -6,10 +6,10 @@ import TextForm from './components/TextForm';
 import Alerts from './components/Alerts';
 import React from "react";
 import {
-  BrowserRouter as Router,
+  
   Routes,
   Route,
-  Link,
+  
   BrowserRouter
 } from "react-router-dom";
 
